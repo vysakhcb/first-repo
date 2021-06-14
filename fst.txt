@@ -1,1 +1,5 @@
 feature 1 test
+
+
+Editting new file to see changes in the merge
+
