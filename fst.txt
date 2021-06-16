@@ -1,5 +1,5 @@
 feature 1 test
 
 
-Editting new file to see changes in the merge
+Editting new file to see changes in the merge and to add a new branch to check the testing feasibiity
 
